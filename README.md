@@ -1,6 +1,6 @@
 # Istishara
 
-An app that connwcts clients and experts
+An app that connects clients and experts
 
 ## Getting Started
 
