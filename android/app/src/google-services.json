@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834654958817",
+    "project_id": "ninja-1c642",
+    "storage_bucket": "ninja-1c642.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834654958817:android:860299e7afb4e58dacf3a0",
+        "android_client_info": {
+          "package_name": "com.example.firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834654958817-lvofqchucli7logvfmnm1kj3usntgl8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFDjhrsF8zC_1IRPNyDXoMeE50gbR9nbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834654958817-lvofqchucli7logvfmnm1kj3usntgl8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
